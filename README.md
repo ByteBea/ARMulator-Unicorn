@@ -11,12 +11,11 @@ ARMulator is a lightweight ARMv7 emulator tool based on Unicorn Engine framework
 - Python 3.x
 - Unicorn Engine: `pip install unicorn`
 - `unicorn`
-- `argparse`
 
 ## 3. User Guide
 Run the emulator by passing an assembly file as an argument (**at the moment**):
 
-`python main.py percorso/del/tuo/file.asm`
+`python3 mainweb.py`
 
 ## 4. Architecture Overview
 
