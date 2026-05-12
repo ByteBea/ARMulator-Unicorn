@@ -28,7 +28,7 @@ Run the emulator by passing an assembly file as an argument (**at the moment**):
 ## 5. General Purpose
 
 This repository contains Python source files developed for educational purposes
-as part of a collaborative university project.
+as part of a collaborative university project at Torvegata(Uni2 of Rome).
 
 
 
