@@ -7,6 +7,7 @@ main
     LDR R1, =myvar
     STR R0, [R1]
     LDR R2, [R1]
-
+    myvar ALLOC32 1
+end
+B end
 SECTION DATA
-myvar ALLOC32 1
