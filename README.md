@@ -31,5 +31,12 @@ Run the emulator by passing an assembly file as an argument (**at the moment**):
 This repository contains Python source files developed for educational purposes
 as part of a collaborative university project at Torvegata(Uni2 of Rome).
 
-
+```mermaid
+graph TD
+    A[ASM Source Code] --> B[Assembler.py]
+    B --> C[Bytecode]
+    C --> D[MainWeb.py]
+    D --> E[Unicorn Engine]
+    E --> F[UI Output]
+```
 
